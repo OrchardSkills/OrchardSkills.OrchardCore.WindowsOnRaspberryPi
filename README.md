@@ -1,2 +1,2 @@
-# OrchardSkills.OrchardCore.WindowsOnRasberryPi
+# OrchardSkills.OrchardCore.WindowsOnRaspberryPi
 Orchard Core IoT Windows 10 Development Environment 
