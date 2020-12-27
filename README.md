@@ -28,7 +28,7 @@ Click on Keep
 
 File is downloaded in the Download folder.
 
-![WoR-004](src="https://user-images.githubusercontent.com/59172485/103180012-ee718c80-484e-11eb-8b0d-d01eec71621c.png)
+![WoR-004](https://user-images.githubusercontent.com/59172485/103180012-ee718c80-484e-11eb-8b0d-d01eec71621c.png)
 
 Create a WOR-ISO folder
 
