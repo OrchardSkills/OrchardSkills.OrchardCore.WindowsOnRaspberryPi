@@ -30,35 +30,41 @@ File is downloaded in the Download folder.
 
 ![WoR-004](https://user-images.githubusercontent.com/59172485/103180012-ee718c80-484e-11eb-8b0d-d01eec71621c.png)
 
-Create a WOR-ISO folder
+Create a new folder
 
 ![WoR-005](https://user-images.githubusercontent.com/59172485/103180014-ef0a2300-484e-11eb-8500-65a0c30bde8b.png)
 
-Move the file creatingISO_21277.1000_en-us_arm64_professional.cmd tp the WOR-ISO folder
+Name the folder WOR-ISO
 
 ![WoR-006](https://user-images.githubusercontent.com/59172485/103180015-ef0a2300-484e-11eb-873c-8f55754ac4bb.png)
 
-Click on the creatingISO_21277.1000_en-us_arm64_professional.cmd file to select it and the right click and select Run as administrator.
+Move the file creatingISO_21277.1000_en-us_arm64_professional.cmd tp the WOR-ISO folder
 
 ![WoR-007](https://user-images.githubusercontent.com/59172485/103180016-ef0a2300-484e-11eb-94be-045a72813d12.png)
 
-Click on More info link
+Click on the creatingISO_21277.1000_en-us_arm64_professional.cmd file to select it and the right click and select Run as administrator.
 
 ![WoR-008](https://user-images.githubusercontent.com/59172485/103180017-efa2b980-484e-11eb-8913-8c7ae7b2ff11.png)
 
-Click on Run anyway
+Click on More info link
 
 ![WoR-009](https://user-images.githubusercontent.com/59172485/103180018-efa2b980-484e-11eb-803a-43121eefa988.png)
 
-This will start the process of creating an ISO file.
+Click on Run anyway
 
 ![WoR-010](https://user-images.githubusercontent.com/59172485/103180019-efa2b980-484e-11eb-9342-883803019847.png)
 
-The process will complete. Press any key to exit.
+This will start the process of creating an ISO file.
+
 
 ![WoR-011](https://user-images.githubusercontent.com/59172485/103180020-efa2b980-484e-11eb-97a4-7e976e78801b.png)
+
+The process will complete. Press any key to exit.
+
 ![WoR-012](https://user-images.githubusercontent.com/59172485/103180021-f03b5000-484e-11eb-8d46-ed5f21385d2e.png)
 
+The ISO file is generated.
+ 
 Download NTlite From https://www.ntlite.com/download/
 Download 7-Zip From https://www.7-zip.org/download.html
 
