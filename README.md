@@ -56,7 +56,6 @@ Click on Run anyway
 
 This will start the process of creating an ISO file.
 
-
 ![WoR-011](https://user-images.githubusercontent.com/59172485/103180020-efa2b980-484e-11eb-97a4-7e976e78801b.png)
 
 The process will complete. Press any key to exit.
@@ -69,17 +68,29 @@ Download NTlite From https://www.ntlite.com/download/
 
 ![WoR-013](https://user-images.githubusercontent.com/59172485/103230514-e834ec00-48f2-11eb-8ba8-7342249a725c.png)
 
+Click on the Download 64-bit link from the stable versions
+
 ![WoR-014](https://user-images.githubusercontent.com/59172485/103230516-e8cd8280-48f2-11eb-808d-bb977b0293a0.png)
+
+Make sure I accept the agreement is selected and press the Next button
 
 ![WoR-015](https://user-images.githubusercontent.com/59172485/103230517-e9661900-48f2-11eb-9ab0-0644a2069a76.png)
 
+Click on the Next button
+
 ![WoR-016](https://user-images.githubusercontent.com/59172485/103230519-e9661900-48f2-11eb-827a-0224158c9be0.png)
+
+Click on the Next Button
 
 ![WoR-017](https://user-images.githubusercontent.com/59172485/103230520-e9661900-48f2-11eb-8c99-22e9ba591a61.png)
 
+Click on the Finish button
+
 ![WoR-018](https://user-images.githubusercontent.com/59172485/103230521-e9feaf80-48f2-11eb-865a-821571239955.png)
 
-Download 7-Zip From https://www.7-zip.org/download.html
+Select the Free (limited, non-commercial) Option and press the OK button.
+
+Download 7-Zip From https://www.7-zip.org/download.html and install it.
 
 Extract Install.wim from the sources folder inside your windows 10 on arm iso
 Windows10.iso > Sources > Install.wim
@@ -87,7 +98,7 @@ Windows10.iso > Sources > Install.wim
 Open NTlite Then Load Install.wim
 In NTLite You should see a Presets Tab on the top left , Click on import then load 0.3.0.xml
 On your Right you should see 0.3.0 , Double click it
-Then on your Left click on Regestry
+Then on your Left click on Registry
 Drag the registry files there
 
 Click on Apply
