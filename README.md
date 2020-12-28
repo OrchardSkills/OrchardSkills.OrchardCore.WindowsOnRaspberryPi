@@ -64,8 +64,21 @@ The process will complete. Press any key to exit.
 ![WoR-012](https://user-images.githubusercontent.com/59172485/103180021-f03b5000-484e-11eb-8d46-ed5f21385d2e.png)
 
 The ISO file is generated.
- 
+
 Download NTlite From https://www.ntlite.com/download/
+
+![WoR-013](https://user-images.githubusercontent.com/59172485/103230514-e834ec00-48f2-11eb-8ba8-7342249a725c.png)
+
+![WoR-014](https://user-images.githubusercontent.com/59172485/103230516-e8cd8280-48f2-11eb-808d-bb977b0293a0.png)
+
+![WoR-015](https://user-images.githubusercontent.com/59172485/103230517-e9661900-48f2-11eb-9ab0-0644a2069a76.png)
+
+![WoR-016](https://user-images.githubusercontent.com/59172485/103230519-e9661900-48f2-11eb-827a-0224158c9be0.png)
+
+![WoR-017](https://user-images.githubusercontent.com/59172485/103230520-e9661900-48f2-11eb-8c99-22e9ba591a61.png)
+
+![WoR-018](https://user-images.githubusercontent.com/59172485/103230521-e9feaf80-48f2-11eb-865a-821571239955.png)
+
 Download 7-Zip From https://www.7-zip.org/download.html
 
 Extract Install.wim from the sources folder inside your windows 10 on arm iso
