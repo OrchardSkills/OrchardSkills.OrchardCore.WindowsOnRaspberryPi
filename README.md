@@ -284,6 +284,8 @@ Click the OK button.
 
 Delete the OneDrive.lnk
 
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk
+
 ![WoR-065](https://user-images.githubusercontent.com/59172485/103251372-b5f8ae00-4935-11eb-9468-712d05d7142b.png)
 
 Click on the OK button.
@@ -306,15 +308,27 @@ Click on the OK button.
 
 ![WoR-070](https://user-images.githubusercontent.com/59172485/103251382-b729db00-4935-11eb-8962-86f131d8cfeb.png)
 
+Launch Windows on Raspberry. Select the install.wim image file and click Next.
+
 ![WoR-071](https://user-images.githubusercontent.com/59172485/103251383-b7c27180-4935-11eb-9bf4-e4427b215445.png)
+
+Click Accept.
 
 ![WoR-072](https://user-images.githubusercontent.com/59172485/103251384-b7c27180-4935-11eb-89e6-dc7853fd901a.png)
 
+Select Use the latest packages available on the server.
+
 ![WoR-073](https://user-images.githubusercontent.com/59172485/103251385-b7c27180-4935-11eb-8c3a-bace92eb3d15.png)
+
+Select Use latest firmware available on the server.
 
 ![WoR-074](https://user-images.githubusercontent.com/59172485/103251386-b7c27180-4935-11eb-9b6d-252b1abef461.png)
 
+These are the Advanced settings.
+
 ![WoR-075](https://user-images.githubusercontent.com/59172485/103251387-b85b0800-4935-11eb-8a89-36aeef3cfadd.png)
+
+These are the General settings. Click Next.
 
 ![WoR-076](https://user-images.githubusercontent.com/59172485/103251388-b85b0800-4935-11eb-8f6c-104ee21c1019.png)
 
@@ -357,7 +371,7 @@ C:\Windows\SysWoW64\OneDriveSetup.exe
 C:\Windows\SysWoW64\BingMaps.dll
 C:\Windows\SysArm32\BingMaps.dll
 
-C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk
+
 C:\Program Files (x86)\Internet Explorer
 
 C:\Program Files\Internet Explorer
