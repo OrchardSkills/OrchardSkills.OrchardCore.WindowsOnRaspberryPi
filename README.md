@@ -114,13 +114,23 @@ install.wim now extracted in the new folder
 
 ![WoR-024](https://user-images.githubusercontent.com/59172485/103251318-ada07300-4935-11eb-8018-ac96677ee609.png)
 
+Launch the NTLite application and select Add Image file (WIM, ESD, SWM)
+
 ![WoR-025](https://user-images.githubusercontent.com/59172485/103251320-ae390980-4935-11eb-8585-1ada808a0c06.png)
+
+Select the install.wim file that was extracted from the archive
 
 ![WoR-026](https://user-images.githubusercontent.com/59172485/103251321-ae390980-4935-11eb-88b2-03109c79e5ed.png)
 
+Select OK to continue.
+
 ![WoR-027](https://user-images.githubusercontent.com/59172485/103251322-ae390980-4935-11eb-9580-c1d2a23cb8f6.png)
 
+Select Load to load the file for editing
+
 ![WoR-028](https://user-images.githubusercontent.com/59172485/103251324-aed1a000-4935-11eb-930d-668f5de6bb9b.png)
+
+Once the file is loaded a green led image will be displayed.
 
 ![WoR-029](https://user-images.githubusercontent.com/59172485/103251326-aed1a000-4935-11eb-85b2-e7c7551a9fa8.png)
 
