@@ -324,18 +324,23 @@ Launch Windows on Raspberry application and click Next.
 
 ![WoR-071](https://user-images.githubusercontent.com/59172485/103251383-b7c27180-4935-11eb-9bf4-e4427b215445.png)
 
+Click OK button.
 
 ![WoR-072](https://user-images.githubusercontent.com/59172485/103251384-b7c27180-4935-11eb-89e6-dc7853fd901a.png)
 
+Select the Raspberry Pi 4
 
 ![WoR-073](https://user-images.githubusercontent.com/59172485/103251385-b7c27180-4935-11eb-8c3a-bace92eb3d15.png)
 
+Select the Samsung T7 External SSD.
 
 ![WoR-074](https://user-images.githubusercontent.com/59172485/103251386-b7c27180-4935-11eb-9b6d-252b1abef461.png)
 
+Select the install.win file.
 
 ![WoR-075](https://user-images.githubusercontent.com/59172485/103251387-b85b0800-4935-11eb-8a89-36aeef3cfadd.png)
 
+Click the Next button.
 
 ![WoR-076](https://user-images.githubusercontent.com/59172485/103251388-b85b0800-4935-11eb-8f6c-104ee21c1019.png)
 
@@ -369,4 +374,3 @@ Wait for the installation to complete.
 
 The installation has completed. Click the finish button.
 
-C:\Windows\SysArm32\BingMaps.dll
