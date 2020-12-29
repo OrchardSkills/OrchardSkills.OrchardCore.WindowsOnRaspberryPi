@@ -242,6 +242,8 @@ Click the Yes button.
 
 Delete the Recover folder.
 
+C:\Windows\System32\Recovery
+
 ![WoR-055](https://user-images.githubusercontent.com/59172485/103251358-b3965400-4935-11eb-9a95-8073cf813aec.png)
 
 Click the OK button.
@@ -249,6 +251,8 @@ Click the OK button.
 ![WoR-056](https://user-images.githubusercontent.com/59172485/103251360-b3965400-4935-11eb-811d-bb599adace85.png)
 
 Delete the BingMaps.dll.
+
+C:\Windows\System32\BingMaps.dll
 
 ![WoR-057](https://user-images.githubusercontent.com/59172485/103251363-b42eea80-4935-11eb-88be-ee96984ac173.png)
 
@@ -258,6 +262,8 @@ Click the OK button.
 
 Delete the BingMaps.dll.
 
+C:\Windows\SysWoW64\BingMaps.dll
+
 ![WoR-059](https://user-images.githubusercontent.com/59172485/103251365-b4c78100-4935-11eb-9de7-698b2184a9a9.png)
 
 Click the OK button.
@@ -265,6 +271,8 @@ Click the OK button.
 ![WoR-060](https://user-images.githubusercontent.com/59172485/103251366-b4c78100-4935-11eb-9bf7-b168eff1a562.png)
 
 Delete the OneDriveSetup.exe.
+
+C:\Windows\SysWoW64\OneDriveSetup.exe
 
 ![WoR-061](https://user-images.githubusercontent.com/59172485/103251367-b4c78100-4935-11eb-8cdf-00fe5f9bacb4.png)
 
@@ -294,6 +302,8 @@ Click on the OK button.
 
 Delete the Internet Explorer folder.
 
+C:\Program Files\Internet Explorer
+
 ![WoR-067](https://user-images.githubusercontent.com/59172485/103251375-b6914480-4935-11eb-9120-e776611a4e56.png)
 
 Click the OK button.
@@ -302,76 +312,61 @@ Click the OK button.
 
 Delete the Internet Explorer folder.
 
+C:\Program Files (x86)\Internet Explorer
+
 ![WoR-069](https://user-images.githubusercontent.com/59172485/103251378-b729db00-4935-11eb-92d7-a097b6604ebb.png)
 
 Click on the OK button.
 
 ![WoR-070](https://user-images.githubusercontent.com/59172485/103251382-b729db00-4935-11eb-8962-86f131d8cfeb.png)
 
-Launch Windows on Raspberry. Select the install.wim image file and click Next.
+Launch Windows on Raspberry application and click Next.
 
 ![WoR-071](https://user-images.githubusercontent.com/59172485/103251383-b7c27180-4935-11eb-9bf4-e4427b215445.png)
 
-Click Accept.
 
 ![WoR-072](https://user-images.githubusercontent.com/59172485/103251384-b7c27180-4935-11eb-89e6-dc7853fd901a.png)
 
-Select Use the latest packages available on the server.
 
 ![WoR-073](https://user-images.githubusercontent.com/59172485/103251385-b7c27180-4935-11eb-8c3a-bace92eb3d15.png)
 
-Select Use latest firmware available on the server.
 
 ![WoR-074](https://user-images.githubusercontent.com/59172485/103251386-b7c27180-4935-11eb-9b6d-252b1abef461.png)
 
-These are the Advanced settings.
 
 ![WoR-075](https://user-images.githubusercontent.com/59172485/103251387-b85b0800-4935-11eb-8a89-36aeef3cfadd.png)
 
-These are the General settings. Click Next.
 
 ![WoR-076](https://user-images.githubusercontent.com/59172485/103251388-b85b0800-4935-11eb-8f6c-104ee21c1019.png)
 
+Click Accept.
+
 ![WoR-077](https://user-images.githubusercontent.com/59172485/103251390-b85b0800-4935-11eb-84f5-3e4ed52519ed.png)
+
+Select Use the latest packages available on the server.
 
 ![WoR-078](https://user-images.githubusercontent.com/59172485/103251391-b85b0800-4935-11eb-8798-2be0aa8deffc.png)
 
+Select Use latest firmware available on the server.
+
 ![WoR-079](https://user-images.githubusercontent.com/59172485/103251392-b8f39e80-4935-11eb-85a3-7679a21a9518.png)
+
+These are the Advanced settings.
 
 ![WoR-080](https://user-images.githubusercontent.com/59172485/103251393-b8f39e80-4935-11eb-8caa-23a22f5b470e.png)
 
+These are the General settings. Click Next.
+
 ![WoR-081](https://user-images.githubusercontent.com/59172485/103251394-b8f39e80-4935-11eb-8146-f3b69efb65c7.png)
+
+Click the Install button.
 
 ![WoR-082](https://user-images.githubusercontent.com/59172485/103251395-b98c3500-4935-11eb-8588-1c1597a84180.png)
 
+Wait for the installation to complete.
+
 ![WoR-083](https://user-images.githubusercontent.com/59172485/103251397-b98c3500-4935-11eb-8cf6-49aaf279c28f.png)
 
+The installation has completed. Click the finish button.
 
-
-Open NTlite Then Load Install.wim
-In NTLite You should see a Presets Tab on the top left , Click on import then load 0.3.0.xml
-On your Right you should see 0.3.0 , Double click it
-Then on your Left click on Registry
-Drag the registry files there
-
-Click on Apply
-
-After its done Right click your Install.wim file and open it with 7-Zip
-after that you can Modify the image directly
-
-[Modify]
-C:\Windows\Cursors (Delete this folder then copy the new one)
-C:\Program Files (Arm) (Add Edge here)
-
-
-[Delete]
-C:\Windows\System32\Recovery
-C:\Windows\System32\BingMaps.dll
-C:\Windows\SysWoW64\OneDriveSetup.exe
-C:\Windows\SysWoW64\BingMaps.dll
 C:\Windows\SysArm32\BingMaps.dll
-
-
-C:\Program Files (x86)\Internet Explorer
-
-C:\Program Files\Internet Explorer
