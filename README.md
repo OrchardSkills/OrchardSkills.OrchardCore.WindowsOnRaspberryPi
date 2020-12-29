@@ -110,15 +110,15 @@ Select the Install.wim from the sources folder inside your windows 10 on arm iso
 
 ![WoR-023](https://user-images.githubusercontent.com/59172485/103251317-ada07300-4935-11eb-9693-91836ca0c5a5.png)
 
-install.wim now extracted in the new folder
+install.wim now extracted in the new folder.
 
 ![WoR-024](https://user-images.githubusercontent.com/59172485/103251318-ada07300-4935-11eb-8018-ac96677ee609.png)
 
-Launch the NTLite application and select Add Image file (WIM, ESD, SWM)
+Launch the NTLite application and select Add Image file (WIM, ESD, SWM).
 
 ![WoR-025](https://user-images.githubusercontent.com/59172485/103251320-ae390980-4935-11eb-8585-1ada808a0c06.png)
 
-Select the install.wim file that was extracted from the archive
+Select the install.wim file that was extracted from the archive.
 
 ![WoR-026](https://user-images.githubusercontent.com/59172485/103251321-ae390980-4935-11eb-88b2-03109c79e5ed.png)
 
@@ -126,7 +126,7 @@ Select OK to continue.
 
 ![WoR-027](https://user-images.githubusercontent.com/59172485/103251322-ae390980-4935-11eb-9580-c1d2a23cb8f6.png)
 
-Select Load to load the file for editing
+Select Load to load the file for editing.
 
 ![WoR-028](https://user-images.githubusercontent.com/59172485/103251324-aed1a000-4935-11eb-930d-668f5de6bb9b.png)
 
@@ -134,27 +134,51 @@ Once the file is loaded a green led image will be displayed.
 
 ![WoR-029](https://user-images.githubusercontent.com/59172485/103251326-aed1a000-4935-11eb-85b2-e7c7551a9fa8.png)
 
+Make sure the Preset tab is selected and click on Import. 
+
 ![WoR-030](https://user-images.githubusercontent.com/59172485/103251328-aed1a000-4935-11eb-9272-132759506824.png)
+
+Select the 0.3.0.xml file you downloaded previously.
 
 ![WoR-031](https://user-images.githubusercontent.com/59172485/103251329-aed1a000-4935-11eb-9d2a-e620569d69e4.png)
 
+Press the OK button to continue.
+
 ![WoR-032](https://user-images.githubusercontent.com/59172485/103251330-af6a3680-4935-11eb-98a0-d9ceecd6d4c4.png)
+
+The Preset is now loaded.
 
 ![WoR-033](https://user-images.githubusercontent.com/59172485/103251331-af6a3680-4935-11eb-956a-1203e11a9b3e.png)
 
+Click on the Registry link.
+
 ![WoR-034](https://user-images.githubusercontent.com/59172485/103251332-af6a3680-4935-11eb-8e0f-cdce8233ebab.png)
+
+Select all the files from the Registry directory and drag and drop them to the Registry queue.
 
 ![WoR-035](https://user-images.githubusercontent.com/59172485/103251333-b002cd00-4935-11eb-9da0-b0610543dfa6.png)
 
+The registry files will then be listed in the queue.
+
 ![WoR-036](https://user-images.githubusercontent.com/59172485/103251334-b002cd00-4935-11eb-99f8-cbccc3016346.png)
+
+Click on the Process button to start applying the registry settings.
 
 ![WoR-037](https://user-images.githubusercontent.com/59172485/103251335-b002cd00-4935-11eb-9a67-27f47ccc89b2.png)
 
+Click on the NO button.
+
 ![WoR-038](https://user-images.githubusercontent.com/59172485/103251336-b002cd00-4935-11eb-9a48-63907ec899c9.png)
+
+Click on the OK button.
 
 ![WoR-039](https://user-images.githubusercontent.com/59172485/103251337-b09b6380-4935-11eb-9872-2a4a28386d8a.png)
 
+This process will take some time. Please wait until it completes. Once it completed then exit the NTLite application.
+
 ![WoR-040](https://user-images.githubusercontent.com/59172485/103251339-b09b6380-4935-11eb-9d8f-005fcc49b4b8.png)
+
+Right click the install.wim file and select 7-Zip then Open archive.
 
 ![WoR-041](https://user-images.githubusercontent.com/59172485/103251340-b09b6380-4935-11eb-8510-418a7de420af.png)
 
