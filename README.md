@@ -170,19 +170,23 @@ Click on the NO button.
 
 ![WoR-038](https://user-images.githubusercontent.com/59172485/103251336-b002cd00-4935-11eb-9a48-63907ec899c9.png)
 
-Click on the OK button.
+Click on the Yes button.
 
 ![WoR-039](https://user-images.githubusercontent.com/59172485/103251337-b09b6380-4935-11eb-9872-2a4a28386d8a.png)
 
-This process will take some time. Please wait until it completes. Once it completed then exit the NTLite application.
+Click on the OK button.
 
 ![WoR-040](https://user-images.githubusercontent.com/59172485/103251339-b09b6380-4935-11eb-9d8f-005fcc49b4b8.png)
 
-Right click the install.wim file and select 7-Zip then Open archive.
+This process will take some time. Please wait until it completes. Once it completed then exit the NTLite application.
 
 ![WoR-041](https://user-images.githubusercontent.com/59172485/103251340-b09b6380-4935-11eb-8510-418a7de420af.png)
 
+Right click the install.wim file and select 7-Zip then Open archive.
+
 ![WoR-042](https://user-images.githubusercontent.com/59172485/103251341-b133fa00-4935-11eb-9afb-c1ba4b3f2f0a.png)
+
+Delete the Cursors folder.
 
 ![WoR-043](https://user-images.githubusercontent.com/59172485/103251343-b133fa00-4935-11eb-9d01-9690a8502d1e.png)
 
