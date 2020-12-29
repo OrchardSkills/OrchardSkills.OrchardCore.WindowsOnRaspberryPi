@@ -94,13 +94,23 @@ Download 7-Zip From https://www.7-zip.org/download.html and install it.
 
 ![WoR-019](https://user-images.githubusercontent.com/59172485/103251312-ac6f4600-4935-11eb-97f6-fd4b779e6cd3.png)
 
+Right click on the ISO file and select 7 Zip and then Open archive. This will open up the 7 Zip Application and list the files in the archive.
+
 ![WoR-020](https://user-images.githubusercontent.com/59172485/103251314-ad07dc80-4935-11eb-886a-2b45e625f425.png)
+
+Create a new folder
 
 ![WoR-021](https://user-images.githubusercontent.com/59172485/103251315-ad07dc80-4935-11eb-96a8-919cb501cc66.png)
 
+Name it WIN10-WIM
+
 ![WoR-022](https://user-images.githubusercontent.com/59172485/103251316-ada07300-4935-11eb-880c-f180a69836d5.png)
 
+Select the Install.wim from the sources folder inside your windows 10 on arm iso file Windows10.iso > Sources > Install.wim and extract it in the new folder that was just created. Just drag and drop the file to the folder.
+
 ![WoR-023](https://user-images.githubusercontent.com/59172485/103251317-ada07300-4935-11eb-9693-91836ca0c5a5.png)
+
+install.wim now extracted in the new folder
 
 ![WoR-024](https://user-images.githubusercontent.com/59172485/103251318-ada07300-4935-11eb-8018-ac96677ee609.png)
 
@@ -222,8 +232,7 @@ Download 7-Zip From https://www.7-zip.org/download.html and install it.
 
 ![WoR-083](https://user-images.githubusercontent.com/59172485/103251397-b98c3500-4935-11eb-8cf6-49aaf279c28f.png)
 
-Extract Install.wim from the sources folder inside your windows 10 on arm iso
-Windows10.iso > Sources > Install.wim
+
 
 Open NTlite Then Load Install.wim
 In NTLite You should see a Presets Tab on the top left , Click on import then load 0.3.0.xml
