@@ -190,15 +190,33 @@ Delete the Cursors folder.
 
 ![WoR-043](https://user-images.githubusercontent.com/59172485/103251343-b133fa00-4935-11eb-9d01-9690a8502d1e.png)
 
+Click the OK button.
+
 ![WoR-044](https://user-images.githubusercontent.com/59172485/103251345-b133fa00-4935-11eb-9262-844078219d7b.png)
+
+Copy the updated Cursors folder into the archive.
 
 ![WoR-045](https://user-images.githubusercontent.com/59172485/103251346-b1cc9080-4935-11eb-8dfb-c1fb979a17e3.png)
 
+Click the Yes button.
+
 ![WoR-046](https://user-images.githubusercontent.com/59172485/103251347-b1cc9080-4935-11eb-9708-032df247c53f.png)
+
+Copy the Edge folder into the archive.
 
 ![WoR-047](https://user-images.githubusercontent.com/59172485/103251348-b1cc9080-4935-11eb-9974-b00840af5fa1.png)
 
+Click the Yes button.
+
 ![WoR-048](https://user-images.githubusercontent.com/59172485/103251349-b2652700-4935-11eb-8038-4becf0a3a0b9.png)
+
+Delete these three folders.
+
+C:\Program Files (Arm)\Internet Explorer
+
+C:\Program Files (Arm)\Windows Defender
+
+C:\Program Files (Arm)\Windows Mail
 
 ![WoR-049](https://user-images.githubusercontent.com/59172485/103251350-b2652700-4935-11eb-9702-4009cbd0d4df.png)
 
@@ -297,7 +315,5 @@ C:\Windows\SysArm32\BingMaps.dll
 C:\Windows\WinSxS\arm64.x86_microsoft-windows-onedrive-setup_31bf3856ad364e35_10.0.20262.1_none_524224da765836ec (Delete this whole folder)
 C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk
 C:\Program Files (x86)\Internet Explorer
-C:\Program Files (Arm)\Internet Explorer
-C:\Program Files (Arm)\Windows Defender
-C:\Program Files (Arm)\Windows Mail
+
 C:\Program Files\Internet Explorer
