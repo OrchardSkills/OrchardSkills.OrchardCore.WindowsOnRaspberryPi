@@ -2,9 +2,21 @@
 
 Orchard Core IoT Windows 10 Development Environment on a Raspberry Pi 4
 
-With your favorite browser, head over to: 
+First Download 7-Zip From https://www.7-zip.org/download.html and install it.
 
-Download a clean windows 10 on arm image from https://uup.rg-adguard.net/
+The Windows on Raspberry project is located at:
+
+https://www.worproject.ml/
+
+Download the Windows on Raspberry imager at:
+
+https://www.worproject.ml/downloads
+
+Unzip it with 7-Zip.
+
+With your favorite browser, head over to: https://uup.rg-adguard.net/
+
+This process will download a the latest windows 10 on arm image. 
 
 ![WoR-001](https://user-images.githubusercontent.com/59172485/103178291-b2cec680-483e-11eb-86ee-b27e15f1eead.png)
 
@@ -89,8 +101,6 @@ Click on the Finish button
 ![WoR-018](https://user-images.githubusercontent.com/59172485/103230521-e9feaf80-48f2-11eb-865a-821571239955.png)
 
 Select the Free (limited, non-commercial) Option and press the OK button.
-
-Download 7-Zip From https://www.7-zip.org/download.html and install it.
 
 ![WoR-019](https://user-images.githubusercontent.com/59172485/103251312-ac6f4600-4935-11eb-97f6-fd4b779e6cd3.png)
 
