@@ -220,45 +220,89 @@ C:\Program Files (Arm)\Windows Mail
 
 ![WoR-049](https://user-images.githubusercontent.com/59172485/103251350-b2652700-4935-11eb-9702-4009cbd0d4df.png)
 
+Click the OK button.
+
 ![WoR-050](https://user-images.githubusercontent.com/59172485/103251351-b2652700-4935-11eb-9f44-c781774c17f0.png)
+
+Delete the Web folder. C:\Windows\Web (We'll then Replace it)
 
 ![WoR-051](https://user-images.githubusercontent.com/59172485/103251352-b2fdbd80-4935-11eb-8694-c91bb6bd9e3a.png)
 
+Click the OK button.
+
 ![WoR-052](https://user-images.githubusercontent.com/59172485/103251353-b2fdbd80-4935-11eb-94a3-0a20db412437.png)
+
+Copy the Web folder into the archive.
 
 ![WoR-053](https://user-images.githubusercontent.com/59172485/103251354-b2fdbd80-4935-11eb-9ad4-782ff39fb930.png)
 
+Click the Yes button.
+
 ![WoR-054](https://user-images.githubusercontent.com/59172485/103251356-b3965400-4935-11eb-9473-cd4e0394a421.png)
+
+Delete the Recover folder.
 
 ![WoR-055](https://user-images.githubusercontent.com/59172485/103251358-b3965400-4935-11eb-9a95-8073cf813aec.png)
 
+Click the OK button.
+
 ![WoR-056](https://user-images.githubusercontent.com/59172485/103251360-b3965400-4935-11eb-811d-bb599adace85.png)
+
+Delete the BingMaps.dll.
 
 ![WoR-057](https://user-images.githubusercontent.com/59172485/103251363-b42eea80-4935-11eb-88be-ee96984ac173.png)
 
+Click the OK button.
+
 ![WoR-058](https://user-images.githubusercontent.com/59172485/103251364-b42eea80-4935-11eb-9b26-4cc96fe8bbbc.png)
+
+Delete the BingMaps.dll.
 
 ![WoR-059](https://user-images.githubusercontent.com/59172485/103251365-b4c78100-4935-11eb-9de7-698b2184a9a9.png)
 
+Click the OK button.
+
 ![WoR-060](https://user-images.githubusercontent.com/59172485/103251366-b4c78100-4935-11eb-9bf7-b168eff1a562.png)
+
+Delete the OneDriveSetup.exe.
 
 ![WoR-061](https://user-images.githubusercontent.com/59172485/103251367-b4c78100-4935-11eb-8cdf-00fe5f9bacb4.png)
 
+Click the OK button.
+
 ![WoR-062](https://user-images.githubusercontent.com/59172485/103251368-b5601780-4935-11eb-827c-4aacb78eaeb2.png)
+
+Delete the folder:
+
+C:\Windows\WinSxS\arm64.x86_microsoft-windows-onedrive-setup_31bf3856ad364e35_10.0.20262.1_none_524224da765836ec 
 
 ![WoR-063](https://user-images.githubusercontent.com/59172485/103251369-b5601780-4935-11eb-82fe-eea60989dcf3.png)
 
+Click the OK button.
+
 ![WoR-064](https://user-images.githubusercontent.com/59172485/103251370-b5f8ae00-4935-11eb-8aed-d5f4571c5477.png)
+
+Delete the OneDrive.lnk
 
 ![WoR-065](https://user-images.githubusercontent.com/59172485/103251372-b5f8ae00-4935-11eb-9468-712d05d7142b.png)
 
+Click on the OK button.
+
 ![WoR-066](https://user-images.githubusercontent.com/59172485/103251374-b6914480-4935-11eb-9ab1-0d9ea8707998.png)
+
+Delete the Internet Explorer folder.
 
 ![WoR-067](https://user-images.githubusercontent.com/59172485/103251375-b6914480-4935-11eb-9120-e776611a4e56.png)
 
+Click the OK button.
+
 ![WoR-068](https://user-images.githubusercontent.com/59172485/103251376-b6914480-4935-11eb-896f-9319db796a28.png)
 
+Delete the Internet Explorer folder.
+
 ![WoR-069](https://user-images.githubusercontent.com/59172485/103251378-b729db00-4935-11eb-92d7-a097b6604ebb.png)
+
+Click on the OK button.
 
 ![WoR-070](https://user-images.githubusercontent.com/59172485/103251382-b729db00-4935-11eb-8962-86f131d8cfeb.png)
 
@@ -304,7 +348,7 @@ after that you can Modify the image directly
 [Modify]
 C:\Windows\Cursors (Delete this folder then copy the new one)
 C:\Program Files (Arm) (Add Edge here)
-C:\Windows\Web (Replace it)
+
 
 [Delete]
 C:\Windows\System32\Recovery
@@ -312,7 +356,7 @@ C:\Windows\System32\BingMaps.dll
 C:\Windows\SysWoW64\OneDriveSetup.exe
 C:\Windows\SysWoW64\BingMaps.dll
 C:\Windows\SysArm32\BingMaps.dll
-C:\Windows\WinSxS\arm64.x86_microsoft-windows-onedrive-setup_31bf3856ad364e35_10.0.20262.1_none_524224da765836ec (Delete this whole folder)
+
 C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk
 C:\Program Files (x86)\Internet Explorer
 
