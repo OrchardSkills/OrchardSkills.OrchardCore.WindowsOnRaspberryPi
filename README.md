@@ -98,6 +98,10 @@ Click on the Next Button
 
 Click on the Finish button
 
+Download neon files to customize the Windows 10 ARM64 image
+
+Windows on Raspbery Discord: https://discord.com/invite/jQCpfVK
+
 ![WoR-018](https://user-images.githubusercontent.com/59172485/103230521-e9feaf80-48f2-11eb-865a-821571239955.png)
 
 Select the Free (limited, non-commercial) Option and press the OK button.
